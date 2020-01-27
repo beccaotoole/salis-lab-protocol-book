@@ -30,7 +30,7 @@ We order a prepared LB mix. Add 25 g per liter ddH2O of Difco LB Broth, Miller \
 
 **Super Optimal Broth** \(SOB medium\) is a nutrient-rich bacterial growth medium used for microbiological culture, generally of _Escherichia coli_. It was developed by Douglas Hanahan in 1983 and is an adjusted version of the commonly used LB media \(lysogeny broth\).  **Super Optimal Broth with Catabolite Repression** \(SOC\) is SOB with added glucose. SOC Medium is used in the final step of bacterial cell transformation to obtain maximal transformation efficiency of E. coli.
 
-First prepare 20% \(20 g / 100 mL\) glucose solution by adding 100 g glucose to 500 mL ddH2O, and filter sterilize using a 500 mL Nalgene® Rapid-Flow™ Filter Unit. This solution can be stored at your bench. Make sure to use [aseptic technique](autoclaving.md) when using it.
+First prepare 20% \(20 g / 100 mL\) glucose solution by slowly adding 100 g glucose to 500 mL ddH2O, and filter sterilize using a 500 mL Nalgene® Rapid-Flow™ Filter Unit. This solution can be stored at your bench. Make sure to use [aseptic technique](autoclaving.md) when using it. Add glucose to the 500 mL of water mixing with a stir bar ~20 grams at a time. 
 
 Next, add 28.08 g SOC Broth Base to 980 mL ddH2O. Autoclave. Allow to cool to room temperature, and aseptically add 20 mL filter sterilized 20% glucose solution.
 
